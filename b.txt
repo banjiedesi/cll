@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is b.txt come from master branch!
+=======
+This is b.txt come from foo branch!
+>>>>>>> foo
